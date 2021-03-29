@@ -16,5 +16,8 @@
     <string name="ProjectName">Project name</string>
     <string name="StartDate">Start Date</string>
     <string name="EndDate">End Date</string>
+    <string name="projectNameView">projectNameView</string>
+    <string name="goal">Goal</string>
+    <string name="enddate">endDate</string>
 
 </resources>
